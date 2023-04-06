@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU1}{Project.html}
+= Project
+
+== Theoretical works
+-  {{<a href="stability.pdf" onclick="javascript:urchinTracker('/downloads/cv.pdf');">Alternative Analysis of High-Probability Generalization Bound for Uniformly Stable Algorithms</a>}}
+
+~~~
+{Summary}
+The best existing generalization bound for uniformly stable algorithms is proved by upper bounds of the moment. We present an alternative analysis whose result matches the best existing result without any additional assumption. We further extend our analysis with structure information to obtain faster rates and show that our method can have some potential advantage in these cases. \n
+~~~
+
+== Projects with codes
+- Algorithms of multi-player multi-armed bandits under different settings \[[https://github.com/WeiXiongUST/multi-armed-bandit-test-framework Code]\] \n 
+~~~
+{Summary}
+This work is my undergraduate thesis where we consider the multi-player multi-armed bandit model with and without collision information. We further extend the model to the heterogeneous case where the arms are player-dependent so information exchange becomes more important. For differnt settings, we design a unified algorithmic framework based on batch-exploration, adaptive differential communication, and coding technique. The instantiations of the framework achieve regret bounds that match the lower bound up to logarithmic and constant factors.
+~~~

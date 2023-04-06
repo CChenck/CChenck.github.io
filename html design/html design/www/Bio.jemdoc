@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU1}{Bio.html}
+= Biography
+
+== Education
+- Ph.D. student in mathematics;
+-- 09/2021 - present;
+-- The Hong Kong University of Science and Technology, Hong Kong, China;
+-- Advisor: [http://tongzhang-ml.org/ Prof. Tong Zhang].
+
+- B.S. in mathematics;
+-- University of Science and Technology of China, Hefei, China;
+-- Electronic Engineering;
+-- Probability and Statistics;
+-- Thesis: Algorithms of multi-player multi-armed bandits under different settings
+
+- Exchange Student;
+-- Shanghai Jiao Tong University, Shanghai, China;
+-- School of Electronic Information and Electrical Engineering, 2018;
+
+
+== Experience
+- Intern, advised by Dr. Wenxue Cheng, and Dr. Li Zhao.
+-- Microsoft Research Asia, Beijing, China;
+-- 01\/2021 - 05\/2021;
+-- Worked on bandwidth estimation for real-time communications with reinforcement learning.
+
+- Research intern, advised by [http://tongzhang-ml.org/ Prof. Tong Zhang].
+-- The Hong Kong University of Science and Technology, Hong Kong, China;
+-- 06\/2020 - 10\/2020;
+-- Developed a general algorithmic framework of decentralized composite problems: PMGT-VR.
+
+- Research intern, advised by [http://www.ece.virginia.edu/~cs7dt/ Prof. Cong Shen].
+-- University of Virginia, Charlottesville, USA;
+-- 08\/2019 - 11\/2019;
+-- Developed efficient algorithms for multi-player multi-armed bandit problem.
+

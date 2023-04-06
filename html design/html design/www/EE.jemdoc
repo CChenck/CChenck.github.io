@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU1}{EE.html}
+= Courses of EE
+
+== Digital Signal Processing
+The program works well since we replace 'for' with vector operations.
+{{<a href="MYFFT.txt"
+onclick="javascript:urchinTracker('/downloads/RA2.pdf');">FFT.txt</a>}}
+
+== Information Theory
+{{<a href="2016final.pdf"
+onclick="javascript:urchinTracker('/downloads/RA2.pdf');">2016final.pdf</a>}}
+
+{{<a href="2017final.pdf"
+onclick="javascript:urchinTracker('/downloads/RA2.pdf');">2017final.pdf</a>}}
+
+{{<a href="2018quiz1.pdf"
+onclick="javascript:urchinTracker('/downloads/RA2.pdf');">2018quiz1.pdf</a>}}
+
+{{<a href="2018quiz2.pdf"
+onclick="javascript:urchinTracker('/downloads/RA2.pdf');">2018quiz2.pdf</a>}}
+
+== Stochastic ProcessB
+{{<a href="HW1.pdf"
+onclick="javascript:urchinTracker('/downloads/RA2.pdf');">HW1.pdf</a>}}
+
+{{<a href="HW2.pdf"
+onclick="javascript:urchinTracker('/downloads/RA2.pdf');">HW2.pdf</a>}}
+
+{{<a href="2018final.pdf"
+onclick="javascript:urchinTracker('/downloads/RA2.pdf');">2018final.pdf</a>}}
+

@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU1}{Research.html}
+= Research
+
+== Papers and Preprints
+-  [https://arxiv.org/abs/2205.15512 Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game] \n
+Wei Xiong\*, Han Zhong\*, Chengshuai Shi, Cong Shen, Liwei Wang, and Tong Zhang,\n 
+ Preprint.\n 
+-  [https://openreview.net/forum?id=BqEPi5ypx5 A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Game] \n
+Wei Xiong, Han Zhong, Chengshuai Shi, Cong Shen, and Tong Zhang,\n 
+ /ICML/ 2022 and /ICLR 2022 Workshop on Gamification and Multiagent Solutions/.\n 
+-  [https://arxiv.org/abs/2202.07511 Pessimistic Minimax Value Iteration: Provably Efficient Equilibrium Learning from Offline Datasets] \n
+Han Zhong\*, Wei Xiong\*, Jiyuan Tan\*, Liwei Wang, Tong Zhang, Zhaoran Wang, and Zhuoran Yang,\n 
+/ICML/ 2022 and /ICLR 2022 Workshop on Gamification and Multiagent Solutions/.\n
+- {{<a href="note_stability.pdf" onclick="javascript:urchinTracker('/downloads/cv.pdf');">An Alternative Analysis of High-Probability Generalization Bound for Uniformly Stable Algorithms</a>}}\n
+Wei Xiong and Yong Lin,\n
+Not intended for publication.
+
+== Undergraduate Work
+- A practical method for trace estimation of Matrix inverse.  \n 
+Haishan Ye\*, and Wei Xiong\*,\n 
+Submitted. \n
+- [https://arxiv.org/abs/2012.15010 PMGT-VR: A decentralized proximal-gradient algorithmic framework with variance reduction]  \[[https://github.com/WeiXiongUST/Decentralized-Proximal-Algorithm-with-Variance-Reduction Code]\] \n 
+Haishan Ye\*, Wei Xiong\*, and Tong Zhang, \n
+Revision at /TPAMI/. \n 
+- [https://arxiv.org/abs/2110.14622 Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization]  \[[https://github.com/ShenGroup/MPMAB_BEACON Code]\] \n 
+Chengshuai Shi, Wei Xiong, Cong Shen, and Jing Yang, \n
+/Neurips/, 2021.\n 
+- [https://arxiv.org/abs/2110.14628 (Almost) Free Incentivized Exploration from Decentralized Learning Agents]  \[[https://github.com/ShenGroup/Observe_then_Incentivize Code]\] \n 
+Chengshuai Shi, Haifeng Xu, Wei Xiong, and Cong Shen, \n
+/Neurips/, 2021.\n 
+- [https://arxiv.org/abs/2110.13578 Distributional Reinforcement Learning for Multi-Dimensional Reward Functions]  \n 
+Pushi  Zhang,  Xiaoyu  Chen,  Li  Zhao,  Wei  Xiong,  Tao  Qin,  and  Tie-Yan  Liu, \n
+/Neurips/, 2021.\n 
+- [https://arxiv.org/abs/2003.00162 Decentralized multi-player multi-armed bandits with no collision information]  \[[https://github.com/WeiXiongUST/multi_player_multi_armed_bandit_algorithms Code*]\] \n 
+Chengshuai Shi, Wei Xiong, Cong Shen, and Jing Yang, \n
+/AISTATS/, 2020.\n 
+
+(* equal contribution or alphabetical order)
+
+The Code* implementes many SOTA and baseline MPMAB algorithms, which is a nice work of Cindy Trinh.
+

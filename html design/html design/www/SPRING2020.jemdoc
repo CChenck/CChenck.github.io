@@ -1,0 +1,74 @@
+# jemdoc: menu{MENU1}{FALL2020.html}
+= Data Structures and Database, Spring 2020
+Pingbo Yuan(袁平波), EEIS, ypb@ustc.edu.cn
+
+== Announcement
+~~~
+{Announcement}
+Experiment 1: C Practice has been released.
+~~~
+
+- The first lecture is on 2.18
+
+== Basic information
+Welcome to Data Structures and Database! \n
+
+Time: 2(1,2), 5(8,9)\n
+Classroom: 5203, East Campus \n
+
+Teaching assistants: \n
+Yu Liu(刘玉); liuyu026@mail.ustc.edu.cn\n
+Sangqi Zhao(赵桑琦); 310104301@qq.com\n
+Wei Xiong(熊伟); xw2016@mail.ustc.edu.cn\n
+
+== Textbook and Policy
+Textbook: 《数据结构》, 严蔚敏, 吴伟民 \n
+Data structure: {{<a href="CH1.pps"onclick="javascript:urchinTracker('/downloads');">CH1</a>}} {{<a href="CH2.pps"onclick="javascript:urchinTracker('/downloads');">CH2</a>}} {{<a href="CH3.pps"onclick="javascript:urchinTracker('/downloads');">CH3</a>}} {{<a href="CH5.pps"onclick="javascript:urchinTracker('/downloads');">CH5</a>}} {{<a href="CH6.pps"onclick="javascript:urchinTracker('/downloads');">CH6</a>}} {{<a href="CH7.pps"onclick="javascript:urchinTracker('/downloads');">CH7</a>}} {{<a href="CH9.pps"onclick="javascript:urchinTracker('/downloads');">CH9</a>}} {{<a href="CH10.pps"onclick="javascript:urchinTracker('/downloads');">CH10</a>}}
+
+Data base: {{<a href="dbCH1.pps"onclick="javascript:urchinTracker('/downloads');">CH1</a>}} {{<a href="dbCH2.pps"onclick="javascript:urchinTracker('/downloads');">CH2</a>}} {{<a href="dbCH3.pps"onclick="javascript:urchinTracker('/downloads');">CH3</a>}} {{<a href="dbCH5.pps"onclick="javascript:urchinTracker('/downloads');">CH5</a>}} {{<a href="dbCH6.pps"onclick="javascript:urchinTracker('/downloads');">CH6</a>}}
+
+Homework: 
+- *Friday*.  
+- Half Score for homework being late. \n
+
+{{<a href="bb.pdf"onclick="javascript:urchinTracker('/downloads');">How to hand in</a>}}: \n
+- bb "作业区" 
+- Submit pdf file \n
+
+*Grading Policy* \n
+TBD
+ 
+== Experiment 
+
+Collaboration and Late Policy \n
+- Discussions are allowed but we expect students to complete their own assignments \n
+- Per additional late week will incur a TBD penalty   
+
+{{<a href="EXP1.pdf"onclick="javascript:urchinTracker('/downloads');">EXP1</a>}}
+
+== Homework
+Problem set: 
+{{<a href="DSHW.pdf"onclick="javascript:urchinTracker('/downloads');">Data Structure</a>}} 
+{{<a href="DBHW.pdf"onclick="javascript:urchinTracker('/downloads');">Data base</a>}}
+
+HW1: 1.2,1.3 Due: 2.25 {{<a href="Solu1.docx" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}\n  
+HW2: 2.3,2.5,2.6,2.9,2.10,2.12 Due: 3.13 {{<a href="Solu2.docx" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}\n  
+HW3: 3.7,3.8,3.9,3.10,3.11 Due: 3.27 {{<a href="Solu3.docx" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}\n  
+HW4: 5.1,5.2,5.3,5.4,5.5 Due: 4.3 {{<a href="Solu4.docx" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}\n  
+HW5: 6.1,6.2,6.3,6.4,6.8,6.9,6.11,6.13,6.14,6.16,6.22,6.23 Due: 4.24 {{<a href="Solu5.docx" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}\n  
+HW6: 7.1,7.2,7.3,7.4,7.5,7.8,7.9,7.10 Due:5.8 {{<a href="Solu6.docx" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}\n  
+HW7: 9.2,9.3,9.4,9.5,9.7 Due:5.15 {{<a href="Solu7.docx" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}\n  
+HW8: 10.1,10.3,10.5 Due:5.22 {{<a href="Solu8.docx" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}\n  
+HW9: 1.6,2.1,2.2,2.3\n  
+HW10: 3.1,3.3,3.4,3.5,4.1,4.2,4.3,4.4,4.5\n
+{{<a href="DB_Solu1.docx" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}
+{{<a href="DB_Solu2.docx" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}
+{{<a href="DB_Solu3.doc" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}
+{{<a href="DB_Solu4.pdf" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}
+{{<a href="DB_Solu4.doc" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}
+{{<a href="DB_Solu5.doc" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}
+{{<a href="DB_Solu6.doc" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Solution</a>}}
+
+== Final
+{{<a href="dbdsfinal.pdf" onclick="javascript:urchinTracker('/downloads/RA2.pdf');">Final_reference</a>}}\n  
+
