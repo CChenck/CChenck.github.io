@@ -3,22 +3,40 @@
 
 ~~~
 {}{img_left}{Protraitsforweb.jpg}{picture}{150}{230}{}
-*Chuqi Chen *\n
+*Chuqi Chen * [https://drive.google.com/file/d/1yeNHChcB2AZCeBsdLjWvCZxjddqEbXe2/view?usp=drive_link/ CV]\n
 PhD candidate\n
 [https://www.math.hkust.edu.hk/ Department of Mathematics]\n
 [https://hkust.edu.hk/ The Hong Kong University of Science and Technology]
+
 ~~~
 
 \n I am currently a PhD student in mathematics at HKUST, advised by [https://www.math.hkust.edu.hk/~maxiang/ Prof. Yang Xiang].
+\n I am visting [https://sites.psu.edu/whao/Prof. Wenrui Hao] at Penn State University.
+\n *I am looking forward to a Postdoc position now!*
 
 == Contact
 - E-mail: cchenck AT connect DOT ust DOT hk
 
 == Research Interests
-- Mathematical Modeling and Simulation in Materials Science
-- Physics Inspired Machine Learning
+The long-term goal of my research is to apply mathematical modeling and design efficient methodologies to address problems encountered in the fields of science and engineering. Specifically, I am interested in the following research topics:
+- *Mathematical Modeling and Simulation in Materials Science*: Focusing on materials science and biomedical science.
+- *Scientific Machine Learning*: Machine learning for solving PDEs, Operator learning, Understanding neural networks through phenomenon-driven theoretical research.
+- *AI for Science*: Generative models for sampling, Generative models with applications in data-driven modeling. /n
 
-== Publication
+~~~
+{}{img_left}{RS_framework.jpg}{picture}{750}{230}{}
+~~~
+
+== Preprint
+- [https://arxiv.org/abs/2410.06308/ Quantifying Training Difficulty and Accelerating Convergence in Neural Network-Based PDE Solvers]\n
+  *Chuqi Chen*,  Qixuan Zhou, Yahong Yang, Yang Xiang, Tao Luo\n
+  In /preprint/
+- [https://arxiv.org/abs/2405.14099/ Automatic Differentiation is Essential in Training Neural Networks for Solving Differential Equations]\n
+  *Chuqi Chen*,  Yahong Yang, Yang Xiang, Wenrui Hao\n
+  In /preprint/
+- [https://arxiv.org/abs/2407.19043/ A phase field model for deformation-induced amorphization ]\n
+ Yuntong Huang, Shuyang Dai, *Chuqi Chen*, Yang Xiang\n
+  In /preprint/
 - [https://arxiv.org/abs/2307.01879/ Stability Analysis Framework for Particle-based Distance GANs with Wasserstein Gradient Flow]\n
   *Chuqi Chen*, Yue Wu, Yang Xiang\n
   In /preprint/
@@ -27,13 +45,28 @@ PhD candidate\n
   In /preprint/
 
 == Talks
+
+- *2024 SIAM-NNP*, November 2024 \n
+  /Contributed Talk: Automatic Differentiation is Essential in Training Neural Networks for Solving Differential Equations./
+
+- *CSML*, August 2024 \n
+  /Minisymposium Talk: Quantifying Training Difficulty and Accelerating Convergence in Neural Network-Based PDE Solvers./
+
+- *17th EASIAM*, August 2023 \n
+  /Minisymposium Talk: Exploring the Training Challenges of Neural Network-Based PDE Solvers: A Singular Value Analysis./
+
 - *ICIAM*, August 2023 \n
-  /Minisymposium Talk: From nanocrystals to glasses: a strengthening mechanism analysis for amorphization/
+  /Minisymposium Talk: From nanocrystals to glasses: a strengthening mechanism analysis for amorphization./
 
 == Short bio
 - *Ph.D. in Mathematics* (2021.09-present)
 -- The Hong Kong University of Science and Technology, Hong Kong SAR, China;
 -- Adivisor: [https://www.math.hkust.edu.hk/~maxiang/ Prof. Yang Xiang].
+
+- *Visiting student*(2024.09-present)
+-- The Pennsylvania State University, State College, PA, USA;
+-- Host: [https://sites.psu.edu/whao/Prof. Wenrui Hao] 
+
 - *B.S. in Mathematics*(2016.09-2021.07)
 -- Sun Yat-sen University, Guangzhou, China;
 -- Adivisor:[https://www.researchgate.net/profile/Ling-Lin-20 Prof. Ling Lin].
